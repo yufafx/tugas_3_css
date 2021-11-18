@@ -1,0 +1,23 @@
+p {
+    background-color: grey;
+}
+
+.p_satu {
+    background-color: orange;
+}
+
+.p_dua {
+    background-color: blue;
+    color: white;
+}
+
+.p_tiga {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.p_empat {
+    font-weight: bold;
+    font-size: 16px;
+}
